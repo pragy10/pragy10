@@ -7,5 +7,5 @@
 - 👯 Looking to collaborate on projects that combine ML + analyzing IMU data
 - 🤔 Looking for help with high-efficiency trajectory prediction in resource-limited automobiles
 - 💬 Ask me about ... anything? :)
-- 📫 How to reach me? [LinkedIn!](https://www.linkedin.com/in/your-link-here) 
+- 📫 How to reach me? [LinkedIn!](https://www.linkedin.com/in/pragya-sekar/) 
 
