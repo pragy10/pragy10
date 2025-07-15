@@ -10,9 +10,6 @@
 - 📫 How to reach me? [LinkedIn!](https://www.linkedin.com/in/pragya-sekar/) 
 
 ## Tech Stack
+Here are some of the technologies I have experience on:
 
-Here are some of the technologies I work with:
-
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs&theme=light)](https://skillicons.dev)
-
-![JavaScript](https://cdn.simpleicons.org/javascript/black)
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,c,cpp,scala,bash,powershell,r,matlab,git,github,windows,kali,ubuntu,linux,mint,pytorch,anaconda,tensorflow,sklearn,opencv,pkl,selenium,gcp,aws,docker,kubernetes,openstack,react,html,css,tailwind,bootstrap,materialui,figma,threejs,vite,npm,nodejs,express,fastapi,mongodb,mysql,sqlite,flask,netlify,vercel,notion&theme=light)](https://skillicons.dev)
