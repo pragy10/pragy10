@@ -9,3 +9,10 @@
 - 💬 Ask me about ... anything? :)
 - 📫 How to reach me? [LinkedIn!](https://www.linkedin.com/in/pragya-sekar/) 
 
+## Tech Stack
+
+Here are some of the technologies I work with:
+
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs&theme=light)](https://skillicons.dev)
+
+![JavaScript](https://cdn.simpleicons.org/javascript/black)
