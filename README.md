@@ -1,4 +1,4 @@
-## Hi there 👋 Pragya here
+## Hey!👋 It's Pragya
 ✨ _Learning..._ ✨
 
 - 🔭 Working on something exciting!
