@@ -16,4 +16,4 @@ Here are some of the technologies I have experience on:
 
 [![Pragya's GitHub stats](https://github-readme-stats.vercel.app/api?username=pragy10)](https://github.com/pragy10)
 
-![Snake animation](https://github.com/pragy10/pragy10/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/pragy10/pragy10/blob/output/github-snake-dark.svg)
