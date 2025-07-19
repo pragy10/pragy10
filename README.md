@@ -1,6 +1,4 @@
-## Hey!👋 It's Pragya
-✨ _Learning..._ ✨
-
+# Hey!👋 It's Pragya
 - 🔭 Working on something exciting!
 - 🌱 Learning about MERN stack and have been fiddling around doing some websites
 - 🧠 Aiming to dwell into cybersecurity
