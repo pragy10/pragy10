@@ -6,6 +6,8 @@
 - 🤔 Looking for help with high-efficiency trajectory prediction in resource-limited automobiles
 - 💬 Ask me about ... anything? :)
 - 📫 How to reach me? [LinkedIn](https://www.linkedin.com/in/pragya-sekar/) or [mail](mailto:pragya.skr10@gmail.com)
+  
+![](https://komarev.com/ghpvc/?username=pragy10)
 
 ## Tech Stack
 Here are some of the technologies I have experience on:
